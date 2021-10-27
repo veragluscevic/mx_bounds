@@ -1,0 +1,11 @@
+#The 95% lower limits on DM  (0 indicates that the data does not exclude any mass values for DM, 100.1 indicates that all the masses are ruled out by the data)
+#Allowing for extra relativistic degrees of freedom N_nu>0
+model        ACT      Planck      ACT+Planck      ACT+low-l      Yp+ACT      Yp+Planck     Yp+ACT+Planck     Yp+ACT+low-l      Yp+YD     Yp+YD+ACT      Yp+YD+Planck     Yp+YD+ACT+Planck     Yp+YD+ACT+low-l
+EM_Real      100.1    100.1          100.1        10.23          100.1       100.1         100.1          	9.64       	100.1       100.1           100.1              100.1               100.1
+EM_Complex   100.1    100.1          100.1        11.61          100.1       100.1         100.1          	10.47     	100.1       100.1           100.1              100.1               100.1
+EM_Majorana  100.1    100.1          100.1        11.30          100.1       100.1         100.1          	10.23      	100.1       100.1           100.1              100.1               100.1
+EM_Dirac     100.1    100.1          100.1        13.26          100.1       100.1         100.1          	12.58      	100.1       100.1           100.1              100.1               100.1
+Nu_Real      100.1    100.1          100.1        100.1          100.1       100.1         100.1         	100.1           100.1       100.1           100.1              100.1               100.1
+Nu_Complex   100.1    100.1          100.1        100.1          100.1       100.1         100.1         	100.1           100.1       100.1           100.1              100.1               100.1   
+Nu_Majorana  100.1    100.1          100.1        100.1          100.1       100.1         100.1         	100.1           100.1       100.1           100.1              100.1               100.1 
+Nu_Dirac     100.1    100.1          100.1        100.1          100.1       100.1         100.1         	100.1           100.1       100.1           100.1              100.1               100.1
